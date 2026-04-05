@@ -1,0 +1,1 @@
+- [Synapse Product Vision](project_synapse_vision.md) — Core pillars: dopamine gamification, neuroplasticity viz, friction-free, loss aversion, variable notifications
